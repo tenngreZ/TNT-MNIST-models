@@ -9,5 +9,5 @@ Python, Keras, Tensorflow, cv2
 In the TNT_mnist_model.ipynb, it shows the cosine similarity between full precision with ternary model and ternary model with scalar-tuning.
 
 ## Usage
-$ git clone git@github.com:tenngreZ/TNT-models.git
-$ jupyter notebook
+git clone git@github.com:tenngreZ/TNT-MNIST-models.git
+jupyter notebook
