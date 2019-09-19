@@ -10,4 +10,5 @@ In the TNT_mnist_model.ipynb, it shows the cosine similarity between full precis
 
 ## Usage
 git clone git@github.com:tenngreZ/TNT-MNIST-models.git
+
 jupyter notebook
